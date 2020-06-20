@@ -1,0 +1,10 @@
+alias ls='ls -F'
+alias ll='ls -lF'
+alias cmhc='cmake --help-command'
+alias cmhm='cmake --help-module'
+alias cmhv='cmake --help-variable'
+set -o vi
+export EDITOR='vi'
+export VISUAL='vi'
+source ~/.bashrc
+
